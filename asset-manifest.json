@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tathva_sponsor/static/css/main.38d2b273.css",
+    "main.js": "/tathva_sponsor/static/js/main.d88aa054.js",
+    "static/media/sponsor1.jpg": "/tathva_sponsor/static/media/sponsor1.723fbb97da7ddb22af3f.jpg",
+    "static/media/sponsor2.jpg": "/tathva_sponsor/static/media/sponsor2.f9fb81900c36d9681412.jpg",
+    "index.html": "/tathva_sponsor/index.html",
+    "main.38d2b273.css.map": "/tathva_sponsor/static/css/main.38d2b273.css.map",
+    "main.d88aa054.js.map": "/tathva_sponsor/static/js/main.d88aa054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d2b273.css",
+    "static/js/main.d88aa054.js"
+  ]
+}
